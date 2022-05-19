@@ -2,9 +2,7 @@
 Project Exploration -- App to control the colour of an RGB LED
 
 Projects:
-1. [RGB Cycler](/RGB_Cycler)
-
-&nbsp;An arduino code file that helps cycle through the three main colours (red, green, blue) starting at zero brightness to full brightness. *The project will be updated to include comments and images to help replication in the future*
+1. [RGB Cycler](/RGB_Cycler)<br />An arduino code file that helps cycle through the three main colours (red, green, blue) starting at zero brightness to full brightness. *The project will be updated to include comments and images to help replication in the future*
 
 
 
