@@ -25,7 +25,7 @@ Eventually, I stumbled upon [this](https://arduino-esp8266.readthedocs.io/en/lat
     - Upload Speed &rarr; 921600
     - Port &rarr; COM9 (varies from computer to computer)
 
-Once that was done and I got the blink sample to work, I finally could finish the Arduino tutorial, but I wanted to try my own way from here. I implemented the [RGB Cycler]() that, as the name implies, cycles the colours of the RGB LED from ⚪&rarr;🔴&rarr;⚪&rarr;🟢&rarr;⚪&rarr;🔵.
+Once that was done and I got the blink sample to work, I finally could finish the Arduino tutorial, but I wanted to try my own way from here. I implemented the [RGB Cycler](/RGB_Cycler) that, as the name implies, cycles the colours of the RGB LED from ⚪&rarr;🔴&rarr;⚪&rarr;🟢&rarr;⚪&rarr;🔵.
 
 To make it easier for me to reference back to the basics in the future and to record my progress, I made this GitHub 😀.
 
