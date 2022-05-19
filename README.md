@@ -5,6 +5,14 @@ Projects:
 1. [RGB Cycler](/RGB_Cycler)<br />An arduino code file that helps cycle through the three main colours (red, green, blue) starting at zero brightness to full brightness. *The project will be updated to include comments and images to help replication in the future*
 
 
+## Objectives
+- [x] Setup ESP32 💻 for coding
+- [x] Control RGB LED using ESP32 
+- [ ] Contol LED using user input ⌨️
+- [ ] Setup ESP32 bluetooth
+- [ ] Develop simple controller app for Android and *maybe* iPhone 📱
+- [ ] Make connection between phone and ESP32
+- [ ] Use color wheel input from phone to change the colour of the LED connected to the ESP32
 
 
 
