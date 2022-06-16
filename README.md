@@ -76,7 +76,7 @@ Order of business
 
 I had some more time to kill, so I decided to tackle the bluetooth portion of the project. I found a cool library (BluetoothSerial) that helped ease the use of bluetooth on the ESP32. In addition, I found some sample code associated with the library. I used it, but forgot that I actually needed a way to see the serial on another bluetooth device. This was solved by [Bluetooth Serial](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=en_US&gl=US) app (on the superior Android OS😜). I wish I could credit the original article authour 😢 but TYSM to Evandro Copercini for creating the code sample. I've uploaded the [test code](/FirstBluetoothTest) in this repository also for future reference.
 
-Okay, now for a small rant, WTH is up with the RGB LED!!!!!! It's so difficult to get a good colour on it. I couldn't notice one difference between displaying UNC Blue ![#4b9cd3](/Images/UNC_Blue.jpg) and light blue ![#add8e6](/Images/Light_Blue.jpg). What's worse is that I couldn't find a good solution to my issue 😡. Anyways, I'll try to find the solution later.
+Okay, now for a small rant, WTH is up with the RGB LED!!!!!! It's so difficult to get a good colour on it. I couldn't notice one difference between displaying UNC Blue ![#4b9cd3](/Images/UNC_Blue.png) and light blue ![#add8e6](/Images/Light_Blue.png). What's worse is that I couldn't find a good solution to my issue 😡. Anyways, I'll try to find the solution later.
 
 From here, my next objective is to control the LED using the serial input on my phone.
 
